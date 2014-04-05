@@ -1,4 +1,4 @@
-.meteor
+*.meteor
 Private
 Local
 lsec.css
