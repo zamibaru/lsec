@@ -1,7 +1,7 @@
-*~
-*.meteor
+
+.meteor
 Private
 Local
-*/lsec.css
-*~lsec.js
-/lsec.html
+lsec.css
+lsec.js
+lsec.html
